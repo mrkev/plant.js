@@ -1,0 +1,31 @@
+{
+  "name": "plant.js",
+  "version": "0.0.0",
+  "description": "bye zombie",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkev/plant.js.git"
+  },
+  "keywords": [
+    "request",
+    "cheerio",
+    "simple",
+    "lol"
+  ],
+  "author": "Kevin Chavez <keh222@cornell.edu> (http://thatkevin.tk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrkev/plant.js/issues"
+  },
+  "homepage": "https://github.com/mrkev/plant.js#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "coffee-script": "^1.9.3",
+    "es6-promise": "^3.0.2",
+    "request": "^2.60.0"
+  }
+}
