@@ -1,7 +1,7 @@
 # plant.js
 
-```
-var Plant = require('.......');
+```JavaScript
+var Plant = require('plant.js');
 
 var browser = new Plant(); // <- You can pass defaults for request. 
 browser.get('http://www.theuselessweb.com/')
