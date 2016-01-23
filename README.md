@@ -13,7 +13,7 @@ browser.get('http://www.theuselessweb.com/')
 
 .then(function($) {
   console.log($('.text-holster h1').text()); // SHUT UP& LOOK
-  browser.get('http://www.theuselessweb.com/');
+  return browser.get('http://www.theuselessweb.com/');
 })
 
 .then(function($) {
