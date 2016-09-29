@@ -1,7 +1,6 @@
 
 let rp         = require('./request_promise')
 let cheerio    = require('cheerio')
-let table2json = require('table2json')
 
 class Plant {
 
