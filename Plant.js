@@ -1,4 +1,4 @@
-
+"use strict";
 let rp         = require('./request_promise')
 let cheerio    = require('cheerio')
 
