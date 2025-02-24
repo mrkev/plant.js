@@ -24,7 +24,7 @@
   "homepage": "https://github.com/mrkev/plant.js#readme",
   "dependencies": {
     "cheerio": "^1.0.0",
-    "coffee-script": "^1.9.3",
+    "coffee-script": "^1.12.7",
     "request": "^2.88.2"
   }
 }
