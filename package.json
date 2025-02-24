@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/mrkev/plant.js#readme",
   "dependencies": {
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0",
     "coffee-script": "^1.9.3",
     "es6-promise": "^4.0.3",
     "request": "^2.60.0"
