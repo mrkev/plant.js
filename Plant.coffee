@@ -1,7 +1,6 @@
 
 rp      = (require './request_promise')
 cheerio = (require 'cheerio')
-Promise = (require 'es6-promise').Promise
 
 class Plant
 

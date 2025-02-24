@@ -25,7 +25,6 @@
   "dependencies": {
     "cheerio": "^1.0.0",
     "coffee-script": "^1.9.3",
-    "es6-promise": "^4.0.3",
     "request": "^2.60.0"
   }
 }
